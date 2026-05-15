@@ -18,12 +18,12 @@ Tecnologias utilizadas
 
 📥 Extração
 
-Criação de dados fictícios de usuários.
+📊 Criação de dados fictícios de usuários.
 
-Transformação
+🧪 Transformação
 
-Geração de mensagens personalizadas automaticamente.
+💬 Geração de mensagens personalizadas automaticamente.
 
-Carregamento
+📤 Carregamento
 
-Exportação dos dados tratados para um arquivo CSV.
+📁 Exportação dos dados tratados para um arquivo CSV.
