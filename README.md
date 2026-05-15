@@ -7,10 +7,15 @@ Os dados dos usuários foram criados localmente em uma lista Python, transformad
 Tecnologias utilizadas
 
 🐍 Python
+
 🐼 Pandas
+
 💻 VS Code
+
 🐙 GitHub
+
 📍 Etapas do projeto
+
 📥 Extração
 
 Criação de dados fictícios de usuários.
