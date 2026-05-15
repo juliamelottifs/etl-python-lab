@@ -5,12 +5,13 @@ Projeto desenvolvido para praticar o processo de ETL (Extração, Transformaçã
 Os dados dos usuários foram criados localmente em uma lista Python, transformados com mensagens personalizadas e exportados para um arquivo CSV, simulando um fluxo real de tratamento de dados.
 
 Tecnologias utilizadas
-Python
-Pandas
-VS Code
-GitHub
-Etapas do projeto
-Extração
+
+🐍 Python
+🐼 Pandas
+💻 VS Code
+🐙 GitHub
+📍 Etapas do projeto
+📥 Extração
 
 Criação de dados fictícios de usuários.
 
